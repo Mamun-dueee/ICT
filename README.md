@@ -1,6 +1,6 @@
 # সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস 
  ---
- **Q1.** 0 থেকে 20 পর্যন্ত দশমিক সংখ্যাগুলোর  Decimal, Binary, Octal, Hexadecimal পদ্ধতিতে লিখ । 
+ **Q1.** 0 থেকে 17 পর্যন্ত দশমিক সংখ্যাগুলোর  Decimal, Binary, Octal, Hexadecimal পদ্ধতিতে লিখ । <kbd>[Ans](https://i.imgur.com/281ATk6.jpg)</kbd>
 
  **Q2.রূপান্তর** 
  >- দশমিক থেকে বাইনারি, অক্টাল, হেক্সাডেসিমেল । 
@@ -30,3 +30,4 @@ Al Mamun Siddiki, B.Sc in EEE; University of Dhaka;
 url-https://mamun-dueee.github.io _FB:_ Mamun.2u
  
  
+
